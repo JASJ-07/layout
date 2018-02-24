@@ -12,17 +12,17 @@
         <!-- Customize your theme here. -->
         <item name="android:padding">36dp</item>
         <item name="android:textStyle">bold</item>
-        <item name="textColor">@color/blanco</item>
+        <item name="android:textColor">@color/blanco</item>
     </style>
 
-    <style name="AppTheme.botones.numeross" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme.botones.numeros" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="android:colorBackground">@color/colorPrimary</item>
+        <item name="android:background">@color/colorPrimary</item>
     </style>
 
     <style name="AppTheme.botones.operadores" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="android:colorBackground">@color/blanco</item>
+        <item name="android:background">@color/rojo</item>
     </style>
 
 </resources>
