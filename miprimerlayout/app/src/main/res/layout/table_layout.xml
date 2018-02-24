@@ -28,14 +28,14 @@
             android:layout_column="0"
             android:padding="3dp"
             android:text="jabon x 1"
-            android:textColor="@color/blanco"
+            android:textColor="@color/negro"
             android:textStyle="bold" />
 
         <TextView
             android:layout_column="2"
             android:padding="3dp"
-            android:text="Total"
-            android:textColor="@color/blnco"
+            android:text="2500"
+            android:textColor="@color/negro"
             android:textStyle="bold" />
     </TableRow>
 
