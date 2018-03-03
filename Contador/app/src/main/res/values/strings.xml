@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contador</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Correo Electronico</string>
+    <string name="Password">Pass</string>
+    <string name="password">pass</string>
+</resources>
